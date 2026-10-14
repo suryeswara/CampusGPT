@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is the minimum attendance required to sit for exams?",
+    "source": "handbook.pdf",
+    "page": 12,
+    "keyword": "75",
+    "answerable": true
+  },
+  {
+    "question": "What is the cafeteria menu on Fridays?",
+    "source": null,
+    "page": null,
+    "keyword": null,
+    "answerable": false
+  }
+]

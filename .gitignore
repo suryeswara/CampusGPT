@@ -1,0 +1,7 @@
+.venv/
+.env
+chroma_db/
+campusgpt.db
+__pycache__/
+*.pyc
+.pytest_cache/
